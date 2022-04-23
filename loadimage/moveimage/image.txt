@@ -1,0 +1,3 @@
+k8s-deploy/alpine:latest
+k8s-deploy/alpine-gitsvn:1.0
+k8s-deploy/alpine-net:1.0
